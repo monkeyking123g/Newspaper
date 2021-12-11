@@ -11,7 +11,6 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 from pathlib import Path
-#import dj-database-url 
 
 import os
 
@@ -58,6 +57,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'newspaper_project.urls'
+
 
 TEMPLATES = [
     {
@@ -153,5 +153,3 @@ EMAIL_USE_TLS = True
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-
