@@ -154,5 +154,4 @@ EMAIL_USE_TLS = True
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-db_from_env = dj-database-url.config()
-DATABASE['default'].update(db_from_env)
+
