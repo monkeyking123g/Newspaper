@@ -4,14 +4,14 @@ E un sito di Blog dove poi registrarti, cambiare password, scrivere tuo post can
 
 L'esperienza acquisita durante lo sviluppo del progetto è:
 
-Framework Django
-Html
-Css
-Bootstrap
-SQLlite
-linguaggi di django
-bitbucket
-Pipenv (virtualenv per l'applicazione.)
-Gunicorn
-Heroku
-Git
+Framework Django,
+Html,
+Css,
+Bootstrap,
+SQLlite,
+linguaggi di django,
+bitbucket,
+Pipenv (virtualenv per l'applicazione.),
+Gunicorn,
+Heroku,
+Git,
