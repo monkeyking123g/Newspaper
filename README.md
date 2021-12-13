@@ -1,5 +1,5 @@
 # Newspaper Ho lavorando con framework Django
-
+https://tranquil-shelf-83018.herokuapp.com/
 E un sito di Blog dove poi registrarti, cambiare password, scrivere tuo post cancelare e aggiornare
 
 L'esperienza acquisita durante lo sviluppo del progetto è:
